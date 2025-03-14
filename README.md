@@ -3,7 +3,7 @@
 # Mario Abdel Khalek - Computer Scientist
 
 ## Summary
-Passionate computer scientist with strong problem-solving skills and a deep interest in artificial intelligence, web development, and cybersecurity. Adept at working both independently and collaboratively, with a strong drive for continuous learning and technical excellence.
+I'm Mario, and I'm looking for my first job as a front-end/back-end developer. Adept at working both independently and collaboratively, with a strong drive for continuous learning and technical excellence.
 
 ## Skills & Expertise
 **Programming Languages:** C/C++, Java, Python, JavaScript, HTML, CSS, SQL, XML, Prolog, Assembly (IDE 68K, Motorola)
