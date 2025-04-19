@@ -1,73 +1,198 @@
 ![pfp (2)](https://github.com/user-attachments/assets/609fc58e-833a-4eb1-895e-94095d8a6583)
 
-# Mario Abdel Khalek - Computer Scientist
+# Mario Abdel Khalek - Professional Summary
 
-## Summary
+## 👨‍💻 Overview
 
-I'm Mario, and I'm looking for my first job as a front-end/back-end developer. Adept at working both independently and collaboratively, with a strong drive for continuous learning and technical excellence.
+Computer Science student at Lebanese University (Faculty of Science II) with expertise in full-stack web development, cybersecurity, and a passion for innovative technology solutions. Expected graduation in 2025. Based in Beirut, Lebanon.
 
-## Skills & Expertise
+## 🎓 Education
 
-**Programming Languages:** C/C++, Java, Python, JavaScript, HTML, CSS, SQL, XML, Prolog, Assembly (IDE 68K, Motorola)
+### Bachelor's in Computer Science
+**Lebanese University, Faculty of Science II**  
+*Expected Graduation: 2025*
 
-**Frameworks & Tools:** ReactJS, Angular, Spring Boot, Android Studio, NodeJS, Maven, MySQL Workbench, GitHub, Postman
+#### Key Study Areas:
+- **Programming & Development:** Client/Server Web Development, OOP, Design Patterns, Application Development, GUI Applications
+- **Systems & Networks:** Computer Systems, Architecture, Networks, System Administration & Security
+- **Data & Algorithms:** Data Structures, Databases, Image Processing
+- **Mathematics & Theory:** Graph Theory, Mathematics for CS, Numerical Analysis, Probability Calculus, Software Engineering
 
-**Software Development:** Backend & Frontend Development, REST API Design & Testing, Database Management, UI/UX Design
+## 💼 Work Experience
 
-**Soft Skills:** Team Player, Fast Learner, Strategic Planning, Researcher, Problem Solver
+### Web Development Intern
+**Turnkey Systems**  
+*July 9 - August 5, 2024*
 
-## Education
+Full-stack development internship focused on:
 
-**Bachelor's in Computer Science (Expected 2025)** - Lebanese University, Faculty of Science II, El Fanar, Lebanon
+#### Frontend Development:
+- Component Structure and Routing (Angular)
+- User Authentication Implementation
+- Form Handling and Validation
+- Quiz Game Logic Development
+- Responsive UI/UX Design
 
-## Additional Education
+#### Backend Development:
+- REST API Endpoints Implementation
+- Data Models and Database Design
+- Exception Handling
+- Security Implementation
+- API Testing and Documentation
 
-**Ethical Hacker, Python Essentials, Networking Essentials Badges**
+#### Technologies Used:
+- **Frontend:** Angular, TypeScript, SCSS, RxJS, Angular Material
+- **Backend:** Spring Boot, Java, JPA/Hibernate, REST APIs, MySQL
 
-2024 - Cisco NetAcad (Remote)
+## 📊 Technical Skills
 
-- **Programming:** Introductory Python skills, basic coding tasks
-- **Ethical Hacking:** Cisco-certified, knowledge of legal/compliance, vulnerability assessments, mitigation strategies, 34 hands-on activities (Kali Linux, WebSploit, etc.)
-- **Networking:** Cisco-certified Networking Technician, fundamentals of networking, device communication, cabling, addressing, Cisco configuration, troubleshooting, help desk support, 50 practice activities
+### Programming Proficiency
+- **Web Development:** 95%
+- **Software Development:** 90%
+- **Network Security:** 90%
+- **Database Management:** 85%
+- **System Administration:** 75%
+- **Image Processing:** 70%
 
-**Data Science and AI Fundamentals Badges**
+### Programming Languages
+- C/C++
+- Java
+- Python
+- JavaScript
+- C#
+- HTML/CSS
+- SQL
+- XML
+- Prolog
+- MatLab
+- Bash
+- Assembly (IDE 68K, Motorolla)
 
-2024 - Cisco NetAcad (Remote)
+### Frameworks & Tools
+- ReactJS
+- NodeJS
+- Angular
+- ASP.NET
+- ASP.NET Core
+- Spring Boot
+- Bootstrap
+- Tailwind CSS
+- Android Studio
+- Git/GitHub
+- MySQL
+- MongoDB
+- Docker
+- Linux
+- Network Tools
+- OpenGL
+- Jupyter Lab
 
-- **Understanding:** Basic concepts of Data Analytics, Data Engineering, Data Science, and AI/ML job functions
-- **Career Insights:** Opportunities in various data roles and required skills for success
-- **Certification:** AI Fundamentals (IBM SkillsBuild) – Student Level
-- **Skills Demonstrated:** NLP, Computer Vision, Deep Learning, AI Ethics
+## 🏆 Professional Certifications
 
-## Work Experience
+### Ethical Hacker
+**Cisco NetAcad** - *October 2023*  
+Skills: Penetration Testing, Network Security, Vulnerability Assessment, Security Tools, Risk Management, Ethical Hacking, Exploiting Applications & Networks, IoT Security, Reporting, Social Engineering
 
-**Web Development Intern** - Turnkey Systems (July 2024 - August 2024)
+### Python Essentials
+**Cisco NetAcad** - *August 2023*  
+Skills: Python, Data Structures, Algorithms, OOP, Automation, Best Practices in Programming
 
-- Developed a Spring Boot Java application for backend services
-- Utilized Angular framework for frontend development
-- Conducted API testing using Postman
+### Networking Essentials
+**Cisco NetAcad** - *September 2023*  
+Skills: Network Protocols, Infrastructure, Troubleshooting, TCP/IP, Network Design
 
-## Notable Projects
+### Introduction to Data Science
+**Cisco NetAcad** - *August 2023*  
+Skills: Data Analysis, Data Collection, Data Validation
 
-**Companion System for a Gaming Platform (2025)** - Developed a full website and mobile app using ReactJS, NodeJS, Android Studio, MySQL, and Axios API.
+### AI Fundamentals with IBM SkillsBuild
+**Cisco NetAcad** - *August 2023*  
+Skills: AI Applications, Ethics, Neural Networks, Computer Vision, Deep Learning, ML, NLP
 
-**Front-End Music Website (2023)** - Designed a website for music enthusiasts.
+### Artificial Intelligence Fundamentals
+**Cisco NetAcad** - *August 2023*  
+Skills: AI Applications, Ethics, Neural Networks, Computer Vision, Deep Learning, ML, NLP
 
-**Quiz App in Python (2024)** - Built a GUI-based quiz app using Python and Tkinter.
+### Introduction to Cybersecurity
+**Cisco NetAcad** - *December 2023*  
+Skills: Cyber Best Practices, Network Vulnerabilities, Privacy And Data Confidentiality, Threat Detection
 
-**IEEE Winner Project - "Carl the Sensor" (2024)** - Created a Raspberry Pi-based car sensor.
+## 🚀 Notable Projects
 
-## Interests
+### Companion System for Gaming Platform (2025)
+**Lebanese University**  
+Full website with mobile app for user engagement with games, analytics, and reporting.  
+**Technologies:** ReactJS, NodeJS, Android Studio, MySQL, GitHub, Axios API
 
-- Artificial Intelligence
+### Front-End Music Website (December 2023)
+**Lebanese University**  
+Website for music lovers to increase engagement with the music industry.  
+**Technologies:** React, TailwindCSS, JavaScript, HTML5, CSS3  
+**GitHub:** [MusicWebsite](https://github.com/CypherKingdom/MusicWebsite)
+
+### Quiz App Python (May 2024)
+**Lebanese University**  
+GUI quiz application using Python and Tkinter.  
+**Technologies:** Python, Tkinter  
+**GitHub:** [PythonQuizApp](https://github.com/CypherKingdom/PythonQuizApp)
+
+### Carl the Sensor - IEEE Winner (April 2024)
+**Lebanese University**  
+Car sensor simulation using Raspberry Pi, Python, and Putty.  
+**Technologies:** Raspberry Pi, Python, Putty, Sensors  
+**GitHub:** [RaspberryPi](https://github.com/CypherKingdom/RaspberryPi)
+
+## 💻 GitHub Repositories
+
+### Main Projects
+- [CypherKingdom](https://github.com/CypherKingdom/CypherKingdom) - Personal repository with various projects
+- [StudentManagementSystem](https://github.com/CypherKingdom/StudentManagementSystem) - ReactJS application for managing student records
+- [RestaurantReservation](https://github.com/CypherKingdom/RestaurantReservation) - ReactJS app for restaurant booking management
+- [ReactMiniApps](https://github.com/CypherKingdom/ReactMiniApps) - Collection of small ReactJS applications
+
+### Language-Specific Projects
+- [PythonCodes](https://github.com/CypherKingdom/PythonCodes) - Python projects, scripts, and applications
+- [AssemblyCodes](https://github.com/CypherKingdom/AssemblyCodes) - Low-level programming in Assembly
+- [JavaProjects](https://github.com/CypherKingdom/JavaProjects) - Java applications and OOP demonstrations
+- [CppCodes](https://github.com/CypherKingdom/CppCodes) - Performance-focused C++ applications
+- [C_Codes](https://github.com/CypherKingdom/C_Codes) - Foundational C programming projects
+
+### Competitive Programming
+- [Leetcode](https://github.com/CypherKingdom/Leetcode) - LeetCode problem solutions
+- [Hackerrank](https://github.com/CypherKingdom/Hackerrank) - HackerRank challenge solutions
+- [Codewars](https://github.com/CypherKingdom/Codewars) - CodeWars kata challenges
+
+## 🔍 Professional Interests
 - Web Development
 - Cybersecurity
+- Artificial Intelligence
 - Social Networks
 
-## Contact
+## 🎯 Personal Strengths
+- Problem Solver
+- Fast Learner
+- Strategic Planner
+- Researcher
+- Team Player
 
-**Email:** [Marioabdelkhalek@gmail.com](mailto:Marioabdelkhalek@gmail.com)
+## 🎮 Hobbies
+- Chess (Won multiple tournaments representing Lebanese University)
+- Football (Team player and strategic thinking)
+- Coding (Personal projects and problem-solving)
+- Mathematics & Physics (Understanding fundamental principles)
+- Puzzles & Riddles (Mental challenges)
 
-**LinkedIn:** [linkedin.com/in/marioabdelkhalek](https://linkedin.com/in/marioabdelkhalek)
+## 🌐 Languages
+- English (Professional)
+- Arabic (Native)
 
-**GitHub:** [github.com/CypherKingdom](https://github.com/CypherKingdom)
+## 📬 Contact Information
+- **Email:** [marioabdelkhalek@gmail.com](mailto:marioabdelkhalek@gmail.com)
+- **LinkedIn:** [Mario Abdel Khalek](https://www.linkedin.com/in/marioabdelkhalek)
+- **GitHub:** [CypherKingdom](https://github.com/CypherKingdom)
+- **ResearchGate:** [Mario Abdel Khalek](https://www.researchgate.net/profile/Mario-Abdel-Khalek)
+- **Portfolio Website:** [marioak.me](https://marioak.me)
+
+---
+
+*Last Updated: April 19, 2025*
