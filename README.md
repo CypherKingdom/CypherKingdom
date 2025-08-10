@@ -1,5 +1,3 @@
-![pfp (2)](https://github.com/user-attachments/assets/609fc58e-833a-4eb1-895e-94095d8a6583)
-
 # Mario Abdel Khalek - Professional Summary
 
 ## 👨‍💻 Overview
