@@ -116,6 +116,26 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
    * [GitHub Repository](https://github.com/CypherKingdom/DataAnalysisPython)
    * **Highlights:** Showcases skills in data analysis, statistical modeling, and data visualization.
 
+8. **Cybersecurity Vulnerability Monitoring & Agentic Workflow Automation** *(2025)*
+   * Developed an intelligent agentic workflow to automate monitoring of Twitter (X.com) for cybersecurity vulnerability disclosures, summarize findings, prioritize by CVSS score, and deliver daily email digests.
+   * Orchestrated four specialized agents: TwitterAgent (data collection via Tweepy), LLMAgent (structured extraction via Together.ai LLM), AnalysisAgent (prioritization, visualization, HTML report), and EmailAgent (SMTP delivery, backup).
+   * Implemented resilience: exponential backoff for API rate limiting, synthetic data fallback, rule-based extraction, local report saving, and detailed error messaging.
+   * Addressed security: sanitized HTML reports, proper credential handling, and robust error management.
+   * **Technologies:** Python, Tweepy, Together.ai API, Flask, HTML/CSS/JS, SMTP, Matplotlib
+   * **Key Skills & Learnings:**
+      - Prompt engineering, LLM optimization, multi-agent orchestration
+      - API integration, rate limiting, web development, structured data processing
+      - Enterprise AI deployment, user-centric design, scalable architecture
+   * **Requirements Met:**
+      - Diagnosed and corrected Decision Tree training issues (stratification, preprocessing, evaluation)
+      - Prevented LLM overfitting (regularization, early stopping)
+      - Designed RAG pipeline for legal-advice chatbot (Haystack, FAISS, OpenAI/Together.ai)
+      - Mitigated hallucination/stale knowledge (source attribution, corpus updates)
+      - Reflected on ethics, scalability, and maintenance (audits, modularity, monitoring)
+      - Defined agentic workflow metrics and automated mitigation for failures
+      - Delivered a minimal Colab notebook: prompts for email, scans Twitter, summarizes/prioritizes vulnerabilities, sends report
+   * **Highlights:** Demonstrates advanced skills in cybersecurity automation, agentic workflows, and resilient AI system design.
+
 ## 🏆 Certifications
 
 1. **Ethical Hacker** *(Cisco NetAcad, October 2023)*
