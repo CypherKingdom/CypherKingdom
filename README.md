@@ -60,7 +60,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 * **Technologies Used:** Angular, TypeScript, SCSS, RxJS, Angular Material, Spring Boot, Java, JPA/Hibernate, REST APIs, MySQL.
 * **Key Achievement:** Delivered a fully functional prototype that was implemented into the company's production environment.
 * A full internship report is available on [LinkedIn](https://www.linkedin.com/pulse/internship-completion-report-mario-abdel-khalek-jqkke/?trackingId=ZdwJTqhH03Ql5vJ4IC1zEg%3D%3D)
-### Pisciner – Software Engineering Program
+### Apprentice (Pisciner) – Software Engineering Program
 **42Beirut** | July 14 - August 8
 - Immersive training in C programming, memory management, Git, UNIX systems, and team-based problem-solving.
 - Selected through a rigorous, project-based evaluation (Piscine).
