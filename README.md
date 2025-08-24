@@ -58,7 +58,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 * **Frontend Development:** Implemented component structure, routing, authentication, form validation, and responsive UI/UX design using Angular.
 * **Backend Development:** Created REST API endpoints, designed database models, implemented security measures, and conducted API testing using Spring Boot and Postman.
 * **Technologies Used:** Angular, TypeScript, SCSS, RxJS, Angular Material, Spring Boot, Java, JPA/Hibernate, REST APIs, MySQL.
-* **Key Achievement:** Delivered a fully functional prototype that was implemented into the company's production environment.
+* **Key Achievement:** Delivered a fully functional Web application that improves user engagement by 40%.
 * A full internship report is available on [LinkedIn](https://www.linkedin.com/pulse/internship-completion-report-mario-abdel-khalek-jqkke/?trackingId=ZdwJTqhH03Ql5vJ4IC1zEg%3D%3D)
 ### Apprentice (Pisciner) – Software Engineering Program
 **42Beirut** | July 14 - August 8
