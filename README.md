@@ -98,7 +98,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
    * Created a website for music lover engagement with the industry.
    * Responsive design with modern UI/UX principles.
    * **Technologies:** React, TailwindCSS, JavaScript, HTML5, CSS3.
-   * [Live Demo](https://github.com/CypherKingdom/MusicWebsite)
+   * [GitHub Repository](https://github.com/CypherKingdom/MusicWebsite)
    * **Highlights:** Showcases skills in front-end development, UI/UX design, and responsive web design.
 
 6. **Quiz App Python** *(May 2024)*
