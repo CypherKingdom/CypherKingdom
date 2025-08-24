@@ -136,6 +136,15 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
       - Delivered a minimal Colab notebook: prompts for email, scans Twitter, summarizes/prioritizes vulnerabilities, sends report
    * **Highlights:** Demonstrates advanced skills in cybersecurity automation, agentic workflows, and resilient AI system design.
 
+9. **Personal Portfolio Website** *(2025)*
+   * Developed a comprehensive personal portfolio website showcasing skills, projects, certifications, and professional experience.
+   * Implemented responsive design with smooth animations and interactive sections for optimal user experience across all devices.
+   * Features dynamic content organization with sections for About, Skills, Projects, Experience, Education, Certifications, and Interests.
+   * Created custom favicon generation using React and Canvas for unique branding.
+   * **Technologies:** React, TypeScript, Tailwind CSS, Vite, Lucide React, PostCSS, Autoprefixer
+   * [Live Demo](https://marioak.me)
+   * **Highlights:** Demonstrates expertise in modern frontend development, responsive design, TypeScript integration, and professional web presentation.
+
 ## 🏆 Certifications
 
 1. **Ethical Hacker** *(Cisco NetAcad, October 2023)*
