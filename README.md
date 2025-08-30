@@ -14,7 +14,7 @@ Results-driven Computer Science graduate with proven experience in full-stack de
 
 #### 📊 **Technical Skills**
 
-- **Languages:** Python, JavaScript, C, C++, Java, SQL, Shell, C#, HTML, CSS, Assembly, Prolog
+- **Languages:** Python, C, C++, JavaScript, Java, SQL, Shell, C#, HTML, CSS, Assembly, Prolog
 - **Frameworks:** ReactJS, Node.js, Angular, ASP.NET, ASP.NET Core, Spring Boot, Flask, Tailwind, Bootstrap
 - **Data Tools:** Pandas, NumPy, Seaborn, Matplotlib, Jupyter, Google Collab, MongoDB, MySQL, Firebase
 - **Cybersecurity Tools:** Kali Linux, Wireshark, Burpsuite, Nmap
@@ -53,15 +53,26 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 ## 💼 Professional Experience
 
 ### Web Development Intern
-**Turnkey Systems** | July 9th - August 5th, 2024
+**Turnkey Systems** | July 9th, 2024 - August 5th, 2024
 * Successfully completed an intensive full-stack development internship.
 * **Frontend Development:** Implemented component structure, routing, authentication, form validation, and responsive UI/UX design using Angular.
 * **Backend Development:** Created REST API endpoints, designed database models, implemented security measures, and conducted API testing using Spring Boot and Postman.
 * **Technologies Used:** Angular, TypeScript, SCSS, RxJS, Angular Material, Spring Boot, Java, JPA/Hibernate, REST APIs, MySQL.
 * **Key Achievement:** Delivered a fully functional Web application that improves user engagement by 40%.
 * A full internship report is available on [LinkedIn](https://www.linkedin.com/pulse/internship-completion-report-mario-abdel-khalek-jqkke/?trackingId=ZdwJTqhH03Ql5vJ4IC1zEg%3D%3D)
+
+### AI/ML & Full-Stack Development Professional
+**AI Ritual** | Jan 2025 - Jun 2025
+- Gained extensive hands-on experience in a comprehensive AI/ML internship, focusing on advanced multi-agent systems, web development, and cybersecurity automation. My work integrated cutting-edge AI technologies with robust software engineering practices.
+- **Artificial Intelligence & Machine Learning:** Architected and deployed multi-agent systems for tasks like content generation and social media optimization. Gained deep experience with LLM integration, including the meta-llama/Llama-3.3-70B-Instruct model, focusing on prompt engineering and API management.
+- **Full-Stack Development:** Built a responsive web application with a Flask RESTful API backend and a modern HTML/CSS/JavaScript frontend.
+- **Cybersecurity & Automation:** Developed an end-to-end vulnerability monitoring system that uses the Twitter API for data collection and LLMs for intelligent analysis. Automated reporting with SMTP email integration and implemented robust fallback mechanisms.
+- **Software Engineering:** Applied industry-standard practices, including Object-Oriented Design, Git/GitHub version control, and comprehensive documentation, to ensure clean, scalable, and secure code.
+- **Languages:** Python, JavaScript
+- **Frameworks:** Flask, Tweepy
+- **Concepts:** Multi-Agent Systems, Prompt Engineering, LLM Integration, RESTful APIs, Cybersecurity Automation
 ### Apprentice (Pisciner) – Software Engineering Program
-**42Beirut** | July 14 - August 8
+**42Beirut** | July 14th, 2025 - August 8th, 2025
 - Immersive training in C programming, memory management, Git, UNIX systems, and team-based problem-solving.
 - Selected through a rigorous, project-based evaluation (Piscine).
 
