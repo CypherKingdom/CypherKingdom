@@ -19,7 +19,7 @@ Results-driven Computer Science graduate with proven experience in full-stack de
 - **Data Tools:** Pandas, NumPy, Seaborn, Matplotlib, Jupyter, Google Collab, MongoDB, MySQL, Firebase
 - **Cybersecurity Tools:** Kali Linux, Wireshark, Burpsuite, Nmap
 - **Dev Tools:** Git, GitHub Actions, Postman, VS Code
-- **Systems:** Linux (Ubuntu, Debian), Windows, Raspberry Pi
+- **Systems:** Linux (Ubuntu, Debian, RedHat), Windows, Raspberry Pi
 
 ---
 
@@ -158,24 +158,24 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 
 ## 🏆 Certifications
 
-1. **Ethical Hacker** *(Cisco NetAcad, October 2023)*
+1. **Ethical Hacker** *(Cisco NetAcad, October 2024)*
 	- Comprehensive training in ethical hacking methodologies, network security, and vulnerability assessment. Learned to identify and mitigate security risks using industry-standard tools and techniques.
-2. **Introduction to Cybersecurity** *(Cisco NetAcad, December 2023)*
+2. **Introduction to Cybersecurity** *(Cisco NetAcad, December 2024)*
    * Cybersecurity fundamentals, threat detection, vulnerabilities, best practices
 
-3. **Python Essentials** *(Cisco NetAcad, August 2023)*
+1. **Python Essentials** *(Cisco NetAcad, August 2024)*
    * Mastered Python programming fundamentals and advanced concepts including data structures, algorithms, and object-oriented programming. Developed practical applications and automation scripts.
 
-4. **Introduction to Data Science** *(Cisco NetAcad, August 2023)*
+1. **Introduction to Data Science** *(Cisco NetAcad, August 2024)*
    * Cisco verifies the earner of this badge successfully completed the Introduction to Data Science course. The holder of this student-level credential has a broad understanding in basic concepts of Data Analytics, Data Engineering, Data Science and AI/ML related job functions. They also have insight into opportunities available for pursuing career in various data roles.
 
-5. **AI Fundamentals with IBM SkillsBuild** *(Cisco NetAcad, August 2023)*
+1. **AI Fundamentals with IBM SkillsBuild** *(Cisco NetAcad, August 2024)*
    * Cisco, in collaboration with IBM SkillsBuild, verifies the earner of this badge successfully completed the AI Fundamentals with IBM SkillsBuild course and achieved the student level credentials. The credential earner demonstrates knowledge of basic artificial intelligence (AI) concepts, such as natural language processing, computer vision, deep learning, etc. Earner has also been exposed to the ethics of AI and is aware of the skills required for success in various roles in the domain.
 
-6. **Artificial Intelligence Fundamentals** *(Cisco NetAcad, August 2023)*
+1. **Artificial Intelligence Fundamentals** *(Cisco NetAcad, August 2024)*
    * This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI. The individual has a conceptual understanding of how to run an AI model using IBM Watson Studio. The earner is aware of the job outlook in fields that use AI and is familiar with the skills required for success in various roles in the domain.
 
-7. **Networking Essentials** *(Cisco NetAcad, September 2023)*
+1. **Networking Essentials** *(Cisco NetAcad, September 2024)*
    * Gained comprehensive understanding of networking fundamentals, protocols, and infrastructure. Learned about network design, implementation, and troubleshooting techniques.
 
 ## 🔍 Primary Areas of Interest
@@ -209,7 +209,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 Mario maintains multiple specialized repositories on GitHub showcasing various technical competencies:
 * [Student Management System](https://github.com/CypherKingdom/StudentManagementSystem): A full-stack ReactJS application demonstrating skills in user authentication, data management, and UI design.
 * [Restaurant Reservation System](https://github.com/CypherKingdom/RestaurantReservation): A system showcasing skills in database design, API development, and user interface implementation.
-* [Python Projects](https://github.com/CypherKingdom/PythonQuizApp): A collection of Python-based projects demonstrating proficiency in GUI development and algorithmic problem-solving.
+* [Python Quiz App](https://github.com/CypherKingdom/PythonQuizApp): A collection of Python-based projects demonstrating proficiency in GUI development and algorithmic problem-solving.
 * [Raspberry Pi Projects](https://github.com/CypherKingdom/RaspberryPi): Projects involving Raspberry Pi, showcasing skills in IoT, embedded systems, and real-time data processing.
 * [Python Code Snippets](https://github.com/CypherKingdom/PythonCodes): A repository of Python code snippets, demonstrating expertise in data manipulation, statistical analysis, and visualization.
 * [Assembly Code Snippets](https://github.com/CypherKingdom/AssemblyCodes): A collection of Assembly code snippets showcasing low-level programming skills.
