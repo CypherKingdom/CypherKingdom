@@ -8,7 +8,7 @@ marioabdelkhalek@gmail.com
 
 #### 👨‍💻 **Professional Summary**
 
-Results-driven Computer Science graduate with proven experience in full-stack development, data analysis, and cybersecurity. Currently advancing skills in systems programming and algorithms as a Pisciner at **42Beirut**, a world-renowned peer-to-peer software engineering school. Delivered multiple production-ready web applications, earned industry-recognized certifications (Cisco, IBM), and won first place in the IEEE IoT competition. Eager to contribute to innovative, impact-driven teams in roles such as Web Developer, Cybersecurity Analyst, or Data Scientist.
+Results-driven Computer Science graduate with proven experience in full-stack development, data analysis, and cybersecurity. Currently advancing skills in systems programming and algorithms at **42Beirut**, a world-renowned peer-to-peer software engineering school. Delivered multiple production-ready web applications, earned industry-recognized certifications (Cisco, IBM), and won first place in the IEEE IoT competition. Eager to contribute to innovative, impact-driven teams in roles such as Web Developer, Cybersecurity Analyst, or Data Scientist.
 
 ---
 
@@ -24,6 +24,9 @@ Results-driven Computer Science graduate with proven experience in full-stack de
 ---
 
 ### 🎓 **Education**
+
+**Master of Science in Computer Science**
+Lebanese University, Faculty of Sciences — _September, 2025 - Present_
 
 **Bachelor of Science in Computer Science**  
 Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
