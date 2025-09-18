@@ -1,4 +1,4 @@
-# Mario AbdelKhalek
+# Mario Abdelkhalek
 Beirut, Lebanon
 +961 3 427 464
 marioabdelkhalek@gmail.com
