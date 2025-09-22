@@ -14,8 +14,8 @@ Results-driven Computer Science graduate with proven experience in full-stack de
 
 #### 📊 **Technical Skills**
 
-- **Languages:** Python, C, C++, JavaScript, Java, SQL, Shell, C#, HTML, CSS, Assembly, Prolog
-- **Frameworks:** ReactJS, Node.js, Angular, ASP.NET, ASP.NET Core, Spring Boot, Flask, Tailwind, Bootstrap
+- **Languages:** Python, C, C++, JavaScript, Java, SQL, Shell, C#, HTML, CSS, Assembly, Prolog, TypeScript
+- **Frameworks:** ReactJS, Next.js, Node.js, Angular, ASP.NET, ASP.NET Core, Spring Boot, Flask, Tailwind, Bootstrap
 - **Data Tools:** Pandas, NumPy, Seaborn, Matplotlib, Jupyter, Google Collab, MongoDB, MySQL, Firebase
 - **Cybersecurity Tools:** Kali Linux, Wireshark, Burpsuite, Nmap
 - **Dev Tools:** Git, GitHub Actions, Postman, VS Code
