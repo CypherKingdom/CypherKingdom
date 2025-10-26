@@ -74,7 +74,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 - **Languages:** Python, JavaScript
 - **Frameworks:** Flask, Tweepy
 - **Concepts:** Multi-Agent Systems, Prompt Engineering, LLM Integration, RESTful APIs, Cybersecurity Automation
-### Apprentice (Pisciner) – Software Engineering Program
+### Software Engineer
 **42Beirut** | July 14th, 2025 - August 8th, 2025
 - Immersive training in C programming, memory management, Git, UNIX systems, and team-based problem-solving.
 - Selected through a rigorous, project-based evaluation (Piscine).
