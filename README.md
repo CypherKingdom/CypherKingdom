@@ -1,247 +1,50 @@
-# Mario Abdelkhalek
-Beirut, Lebanon
-+961 3 427 464
-marioabdelkhalek@gmail.com
-[LinkedIn](https://linkedin.com/in/marioabdelkhalek) | [Portfolio](https://cypherkingdom.github.io) | [GitHub](https://github.com/CypherKingdom)
+# Hi, I'm Mario Abdelkhalek 👋
+
+Computer Science graduate (BSc) and current MSc student at Lebanese University. I build full-stack web apps, explore AI/ML systems, and dig into cybersecurity — currently sharpening my systems programming skills at **42Beirut**.
+
+📍 Beirut, Lebanon &nbsp;|&nbsp; 🌐 [Portfolio](https://cypherkingdom.github.io) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/marioabdelkhalek) &nbsp;|&nbsp; 📧 marioabdelkhalek@gmail.com
 
 ---
 
-#### 👨‍💻 **Professional Summary**
+## 🛠️ Tech Stack
 
-Results-driven Computer Science graduate with proven experience in full-stack development, data analysis, and cybersecurity. Currently advancing skills in systems programming and algorithms at **42Beirut**. Delivered multiple production-ready web applications. Eager to contribute to innovative, impact-driven teams in roles such as Web Developer, Cybersecurity Analyst, or Data Scientist.
-
----
-
-#### 📊 **Technical Skills**
-
-- **Languages:** Python, C, C++, JavaScript, Java, SQL, Shell, C#, HTML, CSS, Assembly, Prolog, TypeScript
-- **Frameworks:** ReactJS, Next.js, Node.js, Angular, ASP.NET, ASP.NET Core, Spring Boot, Flask, Tailwind, Bootstrap
-- **Data Tools:** Pandas, NumPy, Seaborn, Matplotlib, Jupyter, Google Collab, MongoDB, MySQL, Firebase
-- **Cybersecurity Tools:** Kali Linux, Wireshark, Burpsuite, Nmap
-- **Dev Tools:** Git, GitHub Actions, Postman, VS Code
-- **Systems:** Linux (Ubuntu, Debian, RedHat), Windows, Raspberry Pi
+| Area | Tools |
+|---|---|
+| **Languages** | Python, C, C++, JavaScript, TypeScript, Java, SQL, C#, Assembly |
+| **Frontend** | ReactJS, Next.js, Angular, Tailwind, Bootstrap, HTML/CSS |
+| **Backend** | Node.js, Spring Boot, Flask, ASP.NET Core |
+| **Data & ML** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
+| **Databases** | MySQL, MongoDB, Firebase |
+| **Cybersecurity** | Kali Linux, Wireshark, Burpsuite, Nmap |
+| **Dev Tools** | Git, GitHub Actions, Postman, Linux |
 
 ---
 
-### 🎓 **Education**
+## 🚀 Featured Projects
 
-**Master of Science in Computer Science**
-Lebanese University, Faculty of Sciences — _September, 2025 - Present_
-
-**Bachelor of Science in Computer Science**  
-Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
+- **[AI Content Generator](https://github.com/CypherKingdom/FlaskProject)** — Multi-agent Flask app using Together AI API for content generation.
+- **[Student Management System](https://github.com/CypherKingdom/StudentManagementSystem)** — Full-stack MERN app with auth, admin dashboard, and reporting.
+- **[Machine Learning Fundamentals](https://github.com/CypherKingdom/Machine_Learning)** — Jupyter notebooks covering PCA, gradient descent, linear algebra, and neural networks.
+- **[Data Analysis Projects](https://github.com/CypherKingdom/DataAnalysisPython)** — Sales analysis, salary dashboards, and interactive visualizations with Pandas/Seaborn.
+- **[Carl the Sensor](https://github.com/CypherKingdom/RaspberryPi)** 🏆 — IEEE 1st place: real-time car sensor simulation with Raspberry Pi.
+- **[Cybersecurity Monitoring Agent](https://github.com/CypherKingdom)** — Agentic system that monitors Twitter for CVEs, scores by CVSS, and emails daily digests.
 
 ---
 
-### Key Technical Competencies
+## 💼 Experience
 
-* Web Development: Expertise in building responsive and scalable web applications using modern frameworks.
-* Data Analysis & Visualization: Proficient in data manipulation, statistical analysis, and creating insightful visualizations.
-* Software Development: Strong foundation in software design principles and development methodologies.
-* Network Security & Penetration Testing: Knowledge of cybersecurity principles and hands-on experience with security tools.
-* Database Management & Design: Experience in designing and managing relational and NoSQL databases.
-* System Administration: Skilled in configuring and maintaining Linux and Windows-based systems.
-* API Development & Integration: Ability to design, develop, and integrate RESTful APIs.
-* Image Processing & Computer Vision: Experience in developing applications involving image analysis and computer vision techniques.
+- **AI Ritual** — AI/ML & Full-Stack Intern *(Jan–Jun 2025)*: multi-agent LLM systems, Flask APIs, cybersecurity automation.
+- **42Beirut** — Software Engineer *(Jul 2025 - Now)*: C, memory management, UNIX, team projects.
+- **Turnkey Systems** — Web Dev Intern *(Jul–Aug 2024)*: Angular + Spring Boot app, 40% user engagement uplift.
 
-### Data Science & Analysis Skills
-
-* **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Data Manipulation:** List comprehensions, dictionary comprehensions, lambda functions
-* **Python Programming Techniques:** Map/filter functions, generators (yield), functional programming
-* **Data Visualization:** Advanced plotting with Matplotlib, statistical visualizations with Seaborn, interactive charts
-* **Data Analysis Workflows:** Data cleaning, transformation, aggregation, and pattern identification
-* **Statistical Analysis:** Groupby operations, data aggregation, correlation analysis
-
-## 💼 Professional Experience
-
-### Web Development Intern
-**Turnkey Systems** | July 9th, 2024 - August 5th, 2024
-* Successfully completed an intensive full-stack development internship.
-* **Frontend Development:** Implemented component structure, routing, authentication, form validation, and responsive UI/UX design using Angular.
-* **Backend Development:** Created REST API endpoints, designed database models, implemented security measures, and conducted API testing using Spring Boot and Postman.
-* **Technologies Used:** Angular, TypeScript, SCSS, RxJS, Angular Material, Spring Boot, Java, JPA/Hibernate, REST APIs, MySQL.
-* **Key Achievement:** Delivered a fully functional Web application that improves user engagement by 40%.
-* A full internship report is available on [LinkedIn](https://www.linkedin.com/pulse/internship-completion-report-mario-abdel-khalek-jqkke/?trackingId=ZdwJTqhH03Ql5vJ4IC1zEg%3D%3D)
-
-### AI/ML & Full-Stack Development Professional
-**AI Ritual** | Jan 2025 - Jun 2025
-- Gained extensive hands-on experience in a comprehensive AI/ML internship, focusing on advanced multi-agent systems, web development, and cybersecurity automation. My work integrated cutting-edge AI technologies with robust software engineering practices.
-- **Artificial Intelligence & Machine Learning:** Architected and deployed multi-agent systems for tasks like content generation and social media optimization. Gained deep experience with LLM integration, including the meta-llama/Llama-3.3-70B-Instruct model, focusing on prompt engineering and API management.
-- **Full-Stack Development:** Built a responsive web application with a Flask RESTful API backend and a modern HTML/CSS/JavaScript frontend.
-- **Cybersecurity & Automation:** Developed an end-to-end vulnerability monitoring system that uses the Twitter API for data collection and LLMs for intelligent analysis. Automated reporting with SMTP email integration and implemented robust fallback mechanisms.
-- **Software Engineering:** Applied industry-standard practices, including Object-Oriented Design, Git/GitHub version control, and comprehensive documentation, to ensure clean, scalable, and secure code.
-- **Languages:** Python, JavaScript
-- **Frameworks:** Flask, Tweepy
-- **Concepts:** Multi-Agent Systems, Prompt Engineering, LLM Integration, RESTful APIs, Cybersecurity Automation
-### Software Engineer
-**42Beirut** | July 14th, 2025 - August 8th, 2025
-- Immersive training in C programming, memory management, Git, UNIX systems, and team-based problem-solving.
-- Selected through a rigorous, project-based evaluation (Piscine).
-
-## 🚀 Notable Projects
-
-1. **AI Content Generation Flask Application** *(2025)*
-   * Developed a web interface with Flask to interact with AI content generation system.
-   * Implemented multi-agent architecture for content generation using Together AI API.
-   * **Technologies:** Flask, Python, HTML/CSS, JavaScript, Together AI API.
-   * [GitHub Repository](https://github.com/CypherKingdom/FlaskProject)
-   * **Highlights:** Showcases skills in AI integration, web development, and API usage.
-
-2. **Companion System for Gaming Platform** *(2025)*
-   * Designed a full website and mobile app for improved gaming user engagement.
-   * User statistics analysis and reporting functionality.
-   * **Technologies:** ReactJS, NodeJS, Android Studio, MySQL, GitHub, Axios API.
-     * **Highlights:** Showcases skills in web and mobile app development, database management, and API integration.
-
-3. **Student Management System** *(2024)*
-   * Comprehensive ReactJS application for managing student records.
-   * Features include user authentication, admin dashboard, student profiles, and reporting.
-   * **Technologies:** ReactJS, Node.js, Express, MongoDB.
-   * [GitHub Repository](https://github.com/CypherKingdom/StudentManagementSystem)
-   * **Highlights:** Demonstrates proficiency in full-stack development with the MERN stack.
-
-4. **Carl the Sensor (IEEE Winner)** *(April 2024)*
-   * Simulated a car sensor using Raspberry Pi, Python and Putty.
-   * Implemented real-time data collection and analysis algorithms.
-   * **Award:** First place in IEEE Student Competition.
-   * [GitHub Repository](https://github.com/CypherKingdom/RaspberryPi)
-   * **Highlights:** Demonstrates expertise in IoT, embedded systems, and real-time data processing.
-
-5. **Front-End Music Website** *(December 2023)*
-   * Created a website for music lover engagement with the industry.
-   * Responsive design with modern UI/UX principles.
-   * **Technologies:** React, TailwindCSS, JavaScript, HTML5, CSS3.
-   * [GitHub Repository](https://github.com/CypherKingdom/MusicWebsite)
-   * **Highlights:** Showcases skills in front-end development, UI/UX design, and responsive web design.
-
-6. **Quiz App Python** *(May 2024)*
-   * Developed a GUI quiz app using Python and Tkinter.
-   * Implemented score tracking, question randomization, and category selection.
-   * Final project for Python course.
-   * [GitHub Repository](https://github.com/CypherKingdom/PythonQuizApp)
-   * **Highlights:** Demonstrates proficiency in Python programming and GUI development.
-
-7. **Data Analysis Projects** *(2025)*
-   * **Sales Data Analysis:** Developed a comprehensive analysis workflow for revenue trends and product performance.
-   * **Department Salary Analysis:** Created statistical visualizations comparing compensation across organizational departments.
-   * **Advanced Data Visualization:** Built interactive dashboards with heatmaps, radar charts, and KDE plots.
-   * **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
-   * [GitHub Repository](https://github.com/CypherKingdom/DataAnalysisPython)
-   * **Highlights:** Showcases skills in data analysis, statistical modeling, and data visualization.
-
-8. **Cybersecurity Vulnerability Monitoring & Agentic Workflow Automation** *(2025)*
-   * Developed an intelligent agentic workflow to automate monitoring of Twitter (X.com) for cybersecurity vulnerability disclosures, summarize findings, prioritize by CVSS score, and deliver daily email digests.
-   * Orchestrated four specialized agents: TwitterAgent (data collection via Tweepy), LLMAgent (structured extraction via Together.ai LLM), AnalysisAgent (prioritization, visualization, HTML report), and EmailAgent (SMTP delivery, backup).
-   * Implemented resilience: exponential backoff for API rate limiting, synthetic data fallback, rule-based extraction, local report saving, and detailed error messaging.
-   * Addressed security: sanitized HTML reports, proper credential handling, and robust error management.
-   * **Technologies:** Python, Tweepy, Together.ai API, Flask, HTML/CSS/JS, SMTP, Matplotlib
-   * **Key Skills & Learnings:**
-      - Prompt engineering, LLM optimization, multi-agent orchestration
-      - API integration, rate limiting, web development, structured data processing
-      - Enterprise AI deployment, user-centric design, scalable architecture
-   * **Requirements Met:**
-      - Diagnosed and corrected Decision Tree training issues (stratification, preprocessing, evaluation)
-      - Prevented LLM overfitting (regularization, early stopping)
-      - Designed RAG pipeline for legal-advice chatbot (Haystack, FAISS, OpenAI/Together.ai)
-      - Mitigated hallucination/stale knowledge (source attribution, corpus updates)
-      - Reflected on ethics, scalability, and maintenance (audits, modularity, monitoring)
-      - Defined agentic workflow metrics and automated mitigation for failures
-      - Delivered a minimal Colab notebook: prompts for email, scans Twitter, summarizes/prioritizes vulnerabilities, sends report
-   * **Highlights:** Demonstrates advanced skills in cybersecurity automation, agentic workflows, and resilient AI system design.
-
-9. **Personal Portfolio Website** *(2025)*
-   * Developed a comprehensive personal portfolio website showcasing skills, projects, certifications, and professional experience.
-   * Implemented responsive design with smooth animations and interactive sections for optimal user experience across all devices.
-   * Features dynamic content organization with sections for About, Skills, Projects, Experience, Education, Certifications, and Interests.
-   * Created custom favicon generation using React and Canvas for unique branding.
-   * **Technologies:** React, TypeScript, Tailwind CSS, Vite, Lucide React, PostCSS, Autoprefixer
-   * [Live Demo](https://cypherkingdom.github.io)
-   * **Highlights:** Demonstrates expertise in modern frontend development, responsive design, TypeScript integration, and professional web presentation.
+---
 
 ## 🏆 Certifications
 
-1. **Ethical Hacker** *(Cisco NetAcad, October 2024)*
-	- Comprehensive training in ethical hacking methodologies, network security, and vulnerability assessment. Learned to identify and mitigate security risks using industry-standard tools and techniques.
-2. **Introduction to Cybersecurity** *(Cisco NetAcad, December 2024)*
-   * Cybersecurity fundamentals, threat detection, vulnerabilities, best practices
-
-1. **Python Essentials** *(Cisco NetAcad, August 2024)*
-   * Mastered Python programming fundamentals and advanced concepts including data structures, algorithms, and object-oriented programming. Developed practical applications and automation scripts.
-
-1. **Introduction to Data Science** *(Cisco NetAcad, August 2024)*
-   * Cisco verifies the earner of this badge successfully completed the Introduction to Data Science course. The holder of this student-level credential has a broad understanding in basic concepts of Data Analytics, Data Engineering, Data Science and AI/ML related job functions. They also have insight into opportunities available for pursuing career in various data roles.
-
-1. **AI Fundamentals with IBM SkillsBuild** *(Cisco NetAcad, August 2024)*
-   * Cisco, in collaboration with IBM SkillsBuild, verifies the earner of this badge successfully completed the AI Fundamentals with IBM SkillsBuild course and achieved the student level credentials. The credential earner demonstrates knowledge of basic artificial intelligence (AI) concepts, such as natural language processing, computer vision, deep learning, etc. Earner has also been exposed to the ethics of AI and is aware of the skills required for success in various roles in the domain.
-
-1. **Artificial Intelligence Fundamentals** *(Cisco NetAcad, August 2024)*
-   * This credential earner demonstrates knowledge of artificial intelligence (AI) concepts, such as natural language processing, computer vision, machine learning, deep learning, chatbots, and neural networks; AI ethics; and the applications of AI. The individual has a conceptual understanding of how to run an AI model using IBM Watson Studio. The earner is aware of the job outlook in fields that use AI and is familiar with the skills required for success in various roles in the domain.
-
-1. **Networking Essentials** *(Cisco NetAcad, September 2024)*
-   * Gained comprehensive understanding of networking fundamentals, protocols, and infrastructure. Learned about network design, implementation, and troubleshooting techniques.
-
-## 🔍 Primary Areas of Interest
-
-* Data Analysis & Visualization
-* Cybersecurity & Ethical Hacking
-* Full-stack Development
-* Artificial Intelligence & Machine Learning
-
-## 🎯 Key Assets & Professional Attributes
-
-1. **Analytical Problem Solver:** Demonstrates analytical skills through complex projects and competitive programming.
-2. **Fast Learner:** Quickly adapts to new technologies and frameworks.
-3. **Strategic Planner:** Shows methodical project planning and execution.
-4. **Researcher:** Active on ResearchGate, with academic interests in mathematics and physics.
-5. **Team Player:** Collaborative work demonstrated through group projects.
-6. **Technical Versatility:** Comfortable with both front-end and back-end development.
-7. **Continuous Learning:** Actively pursues certifications and new skills.
-8. **Communication:** Clear documentation and presentation skills.
-9. **Data Storytelling:** Ability to translate complex data insights into actionable business recommendations.
-10. **Functional Programming:** Expertise in Python, C++ and other advanced functional programming paradigms.
-
-## Academic Projects
-
-* **Advanced Data Analysis Laboratory:** Created comprehensive analysis workflows with Python, Pandas and visualization libraries.
-* **Financial Data Modeling:** Applied statistical methods to analyze market trends and develop predictive models.
-* **Department Performance Analysis:** Designed dashboards to visualize organizational salary distributions and metrics.
-
-## 💻 Code Repositories
-
-Mario maintains multiple specialized repositories on GitHub showcasing various technical competencies:
-* [Machine Learning Fundamentals](https://github.com/CypherKingdom/Machine_Learning): A comprehensive collection of Jupyter notebooks covering mathematical foundations and fundamental algorithms essential for machine learning. Includes calculus and optimization, linear algebra with NumPy, Principal Component Analysis (PCA), and perceptron algorithm implementations. Demonstrates expertise in mathematical modeling, dimensionality reduction, gradient descent optimization, and neural network fundamentals using Python, NumPy, Matplotlib, and SciPy.
-* [Student Management System](https://github.com/CypherKingdom/StudentManagementSystem): A full-stack ReactJS application demonstrating skills in user authentication, data management, and UI design.
-* [Restaurant Reservation System](https://github.com/CypherKingdom/RestaurantReservation): A system showcasing skills in database design, API development, and user interface implementation.
-* [Python Quiz App](https://github.com/CypherKingdom/PythonQuizApp): A collection of Python-based projects demonstrating proficiency in GUI development and algorithmic problem-solving.
-* [Raspberry Pi Projects](https://github.com/CypherKingdom/RaspberryPi): Projects involving Raspberry Pi, showcasing skills in IoT, embedded systems, and real-time data processing.
-* [Python Code Snippets](https://github.com/CypherKingdom/PythonCodes): A repository of Python code snippets, demonstrating expertise in data manipulation, statistical analysis, and visualization.
-* [Assembly Code Snippets](https://github.com/CypherKingdom/AssemblyCodes): A collection of Assembly code snippets showcasing low-level programming skills.
-* [Java Projects](https://github.com/CypherKingdom/JavaProjects): A repository of Java-based projects demonstrating proficiency in object-oriented programming and software development.
-* [C++ Code Snippets](https://github.com/CypherKingdom/CppCodes): A collection of C++ code snippets, demonstrating expertise in algorithm design and data structures.
-* [C Code Snippets](https://github.com/CypherKingdom/C_Codes): A repository of C code snippets, showcasing skills in system-level programming.
-* [AI Content Generator](https://github.com/CypherKingdom/FlaskProject): A web application demonstrating skills in AI integration, web development, and API usage.
-* [React Mini Apps](https://github.com/CypherKingdom/ReactMiniApps): A collection of mini React applications showcasing front-end development skills.
-* [Data Analysis with Python](https://github.com/CypherKingdom/DataAnalysisPython): Demonstrates skills in data analysis, statistical modeling, and data visualization.
-
-## 🎮 Hobbies
-
-- Chess (Won multiple tournaments representing Lebanese University)
-- Football (Team player and strategic thinking)
-- Coding (Personal projects and problem-solving)
-- Mathematics & Physics (Understanding fundamental principles)
-- Puzzles & Riddles (Mental challenges)
-
-## 🌐 Languages
-
-- English (Professional)
-- Arabic (Native)
-
-## 📬 Contact Information
-
-- **Email:** [marioabdelkhalek@gmail.com](mailto:marioabdelkhalek@gmail.com)
-- **LinkedIn:** [Mario Abdelkhalek](https://www.linkedin.com/in/marioabdelkhalek)
-- **GitHub:** [CypherKingdom](https://github.com/CypherKingdom)
-- **Portfolio Website:** [cypherkingdom.github.io](https://cypherkingdom.github.io)
+Ethical Hacker · Introduction to Cybersecurity · Python Essentials · Introduction to Data Science · AI Fundamentals *(IBM SkillsBuild)* · Networking Essentials — all via **Cisco NetAcad**
 
 ---
+
+## 🎯 Interests
+
+Data Analysis · Cybersecurity & Ethical Hacking · Full-Stack Development · AI & Machine Learning · Chess 🏅 · Mathematics & Physics
