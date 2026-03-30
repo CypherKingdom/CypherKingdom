@@ -2,13 +2,13 @@
 Beirut, Lebanon
 +961 3 427 464
 marioabdelkhalek@gmail.com
-[LinkedIn](https://linkedin.com/in/marioabdelkhalek) | [Portfolio](https://marioak.me) | [GitHub](https://github.com/CypherKingdom)
+[LinkedIn](https://linkedin.com/in/marioabdelkhalek) | [Portfolio](https://cypherkingdom.github.io) | [GitHub](https://github.com/CypherKingdom)
 
 ---
 
 #### 👨‍💻 **Professional Summary**
 
-Results-driven Computer Science graduate with proven experience in full-stack development, data analysis, and cybersecurity. Currently advancing skills in systems programming and algorithms at **42Beirut**, a world-renowned peer-to-peer software engineering school. Delivered multiple production-ready web applications, earned industry-recognized certifications (Cisco, IBM), and won first place in the IEEE IoT competition. Eager to contribute to innovative, impact-driven teams in roles such as Web Developer, Cybersecurity Analyst, or Data Scientist.
+Results-driven Computer Science graduate with proven experience in full-stack development, data analysis, and cybersecurity. Currently advancing skills in systems programming and algorithms at **42Beirut**. Delivered multiple production-ready web applications. Eager to contribute to innovative, impact-driven teams in roles such as Web Developer, Cybersecurity Analyst, or Data Scientist.
 
 ---
 
@@ -156,7 +156,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
    * Features dynamic content organization with sections for About, Skills, Projects, Experience, Education, Certifications, and Interests.
    * Created custom favicon generation using React and Canvas for unique branding.
    * **Technologies:** React, TypeScript, Tailwind CSS, Vite, Lucide React, PostCSS, Autoprefixer
-   * [Live Demo](https://marioak.me)
+   * [Live Demo](https://cypherkingdom.github.io)
    * **Highlights:** Demonstrates expertise in modern frontend development, responsive design, TypeScript integration, and professional web presentation.
 
 ## 🏆 Certifications
@@ -210,6 +210,7 @@ Lebanese University, Faculty of Sciences — _Graduated: June, 2025_
 ## 💻 Code Repositories
 
 Mario maintains multiple specialized repositories on GitHub showcasing various technical competencies:
+* [Machine Learning Fundamentals](https://github.com/CypherKingdom/Machine_Learning): A comprehensive collection of Jupyter notebooks covering mathematical foundations and fundamental algorithms essential for machine learning. Includes calculus and optimization, linear algebra with NumPy, Principal Component Analysis (PCA), and perceptron algorithm implementations. Demonstrates expertise in mathematical modeling, dimensionality reduction, gradient descent optimization, and neural network fundamentals using Python, NumPy, Matplotlib, and SciPy.
 * [Student Management System](https://github.com/CypherKingdom/StudentManagementSystem): A full-stack ReactJS application demonstrating skills in user authentication, data management, and UI design.
 * [Restaurant Reservation System](https://github.com/CypherKingdom/RestaurantReservation): A system showcasing skills in database design, API development, and user interface implementation.
 * [Python Quiz App](https://github.com/CypherKingdom/PythonQuizApp): A collection of Python-based projects demonstrating proficiency in GUI development and algorithmic problem-solving.
@@ -239,8 +240,8 @@ Mario maintains multiple specialized repositories on GitHub showcasing various t
 ## 📬 Contact Information
 
 - **Email:** [marioabdelkhalek@gmail.com](mailto:marioabdelkhalek@gmail.com)
-- **LinkedIn:** [Mario Abdel Khalek](https://www.linkedin.com/in/marioabdelkhalek)
+- **LinkedIn:** [Mario Abdelkhalek](https://www.linkedin.com/in/marioabdelkhalek)
 - **GitHub:** [CypherKingdom](https://github.com/CypherKingdom)
-- **Portfolio Website:** [marioak.me](https://marioak.me)
+- **Portfolio Website:** [cypherkingdom.github.io](https://cypherkingdom.github.io)
 
 ---
